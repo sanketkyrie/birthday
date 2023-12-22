@@ -1283,9 +1283,10 @@ audio {
 
 .btn-primary {
         border-color: #466baf;
-        padding: 10px;
+        padding: 30px;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
+	font-size: 20px;
         font-weight: 700;
         color: #fff;
         background-color: #466baf;
